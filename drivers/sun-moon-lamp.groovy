@@ -5,7 +5,7 @@
  * 
  */
 metadata {
-    definition(name: "Sun Moon Lamp", namespace: "wastedabuser", author: "wastedabsuer", importUrl: "https://raw.githubusercontent.com/wastedabuser/hubitat/master/drivers/sun-moon-lamp.groovy") {
+    definition(name: "Sun Moon Lamp", namespace: "wastedabuser", author: "wastedabsuer", importUrl: "https://raw.githubusercontent.com/wastedabuser/hubitat/main/drivers/sun-moon-lamp.groovy") {
         capability "Actuator"
         capability "Switch"
         capability "Sensor"
